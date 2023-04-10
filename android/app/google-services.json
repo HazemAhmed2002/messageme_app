@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884587613913",
+    "project_id": "flutter-app-dd7f4",
+    "storage_bucket": "flutter-app-dd7f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884587613913:android:02d862edd7c3598a61b8c8",
+        "android_client_info": {
+          "package_name": "com.hzmAhmed.messageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884587613913-eiv4mlgismhei8lkulme20d0ltmabimh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8ifwGPmF0OG9_MXNEdjch5TFUPEuDIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884587613913-eiv4mlgismhei8lkulme20d0ltmabimh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
