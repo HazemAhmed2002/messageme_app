@@ -26,7 +26,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
           children: [
             Column(
               children: [
-                Container(
+                SizedBox(
                   height: 180,
                   child: Image.asset('images/logo.png'),
                 ),

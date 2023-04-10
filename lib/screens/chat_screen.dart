@@ -66,7 +66,7 @@ class _ChatScreenState extends State<ChatScreen> {
                     fontWeight: FontWeight.bold,
                   ),
                 ),
-                Container(
+                SizedBox(
                   height: 20,
                   child: IconButton(
                     onPressed: () {
@@ -211,7 +211,7 @@ class MessageLine extends StatelessWidget {
               color: isMe ? Colors.yellow[900] : Colors.black45,
             ),
           ),
-          SizedBox(
+          const SizedBox(
             height: 3,
           ),
           Material(
